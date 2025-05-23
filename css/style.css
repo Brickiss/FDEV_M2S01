@@ -1,0 +1,56 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+    padding-left: 1.7%
+    
+}
+
+p{
+    color: rgb(50, 8, 50);
+}
+
+br {
+  margin:-10px;
+
+}
+
+.container {
+    padding-left: 3%;
+
+}
+
+#front {
+    padding-left: 1.6%;
+
+}
+
+#back {
+    padding-left: 1.6%;
+    margin-top: -0.6em;
+
+}
+
+
+
+#porcentagem {
+    background-color: darkorchid;
+    display: inline-block;
+}
+
+ul {
+    margin-top: 0.6em;  
+    margin-bottom: 0.9em;
+    padding-left: 1.7em;
+}
+
+li {
+  margin-bottom: -0.1em; /* reduz espaço entre itens da lista */
+  line-height: 1.2; /* reduz altura da linha */
+  margin-top: -1em;
+}
+#Ativ1{
+    background-color: green;
+}#Ativ2{
+    background-color: green;
+}
